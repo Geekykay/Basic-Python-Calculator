@@ -31,11 +31,14 @@ The goal of this assignment is to:
     python calculator.py
 
 ## 🧪 Sample Output
+```
 Enter the first number: 12  
 Enter the second number: 4  
 Choose an operation (+, -, *, /): /  
 12.0 / 4.0 = 3.0
+```
 
+---
 👩🏽‍💻 Author: 
 Rosemary Emeli, 
 Student at Power Learn Project Academy,
